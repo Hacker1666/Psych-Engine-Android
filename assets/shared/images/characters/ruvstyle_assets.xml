@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ruvstyle_assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ruvstyle down0000" x="10" y="10" width="623" height="848"/>
+	<SubTexture name="ruvstyle down0001" x="10" y="10" width="623" height="848"/>
+	<SubTexture name="ruvstyle down0002" x="643" y="10" width="621" height="840" frameX="-2" frameY="-8" frameWidth="623" frameHeight="848"/>
+	<SubTexture name="ruvstyle down0003" x="643" y="10" width="621" height="840" frameX="-2" frameY="-8" frameWidth="623" frameHeight="848"/>
+	<SubTexture name="ruvstyle down0004" x="1274" y="10" width="621" height="845" frameX="-2" frameY="-3" frameWidth="623" frameHeight="848"/>
+	<SubTexture name="ruvstyle down0005" x="1274" y="10" width="621" height="845" frameX="-2" frameY="-3" frameWidth="623" frameHeight="848"/>
+	<SubTexture name="ruvstyle down0006" x="1274" y="10" width="621" height="845" frameX="-2" frameY="-3" frameWidth="623" frameHeight="848"/>
+	<SubTexture name="ruvstyle down0007" x="1274" y="10" width="621" height="845" frameX="-2" frameY="-3" frameWidth="623" frameHeight="848"/>
+	<SubTexture name="ruvstyle down0008" x="1274" y="10" width="621" height="845" frameX="-2" frameY="-3" frameWidth="623" frameHeight="848"/>
+	<SubTexture name="ruvstyle down0009" x="1274" y="10" width="621" height="845" frameX="-2" frameY="-3" frameWidth="623" frameHeight="848"/>
+	<SubTexture name="ruvstyle down0010" x="1274" y="10" width="621" height="845" frameX="-2" frameY="-3" frameWidth="623" frameHeight="848"/>
+	<SubTexture name="ruvstyle down0011" x="1274" y="10" width="621" height="845" frameX="-2" frameY="-3" frameWidth="623" frameHeight="848"/>
+	<SubTexture name="ruvstyle down0012" x="1274" y="10" width="621" height="845" frameX="-2" frameY="-3" frameWidth="623" frameHeight="848"/>
+	<SubTexture name="ruvstyle down0013" x="1274" y="10" width="621" height="845" frameX="-2" frameY="-3" frameWidth="623" frameHeight="848"/>
+	<SubTexture name="ruvstyle down0014" x="1274" y="10" width="621" height="845" frameX="-2" frameY="-3" frameWidth="623" frameHeight="848"/>
+	
+	<SubTexture name="ruvstyle idle0000" x="1905" y="10" width="465" height="948"/>
+	<SubTexture name="ruvstyle idle0001" x="2380" y="10" width="456" height="928" frameX="-6" frameY="-20" frameWidth="465" frameHeight="948"/>
+	<SubTexture name="ruvstyle idle0002" x="2846" y="10" width="449" height="924" frameX="-11" frameY="-24" frameWidth="465" frameHeight="948"/>
+	<SubTexture name="ruvstyle idle0003" x="2846" y="10" width="449" height="924" frameX="-11" frameY="-24" frameWidth="465" frameHeight="948"/>
+	<SubTexture name="ruvstyle idle0004" x="3305" y="10" width="449" height="929" frameX="-11" frameY="-19" frameWidth="465" frameHeight="948"/>
+	<SubTexture name="ruvstyle idle0005" x="3305" y="10" width="449" height="929" frameX="-11" frameY="-19" frameWidth="465" frameHeight="948"/>
+	<SubTexture name="ruvstyle idle0006" x="10" y="968" width="449" height="934" frameX="-11" frameY="-14" frameWidth="465" frameHeight="948"/>
+	<SubTexture name="ruvstyle idle0007" x="469" y="968" width="449" height="934" frameX="-11" frameY="-14" frameWidth="465" frameHeight="948"/>
+	<SubTexture name="ruvstyle idle0008" x="928" y="968" width="449" height="935" frameX="-11" frameY="-13" frameWidth="465" frameHeight="948"/>
+	<SubTexture name="ruvstyle idle0009" x="928" y="968" width="449" height="935" frameX="-11" frameY="-13" frameWidth="465" frameHeight="948"/>
+	<SubTexture name="ruvstyle idle0010" x="928" y="968" width="449" height="935" frameX="-11" frameY="-13" frameWidth="465" frameHeight="948"/>
+	<SubTexture name="ruvstyle idle0011" x="928" y="968" width="449" height="935" frameX="-11" frameY="-13" frameWidth="465" frameHeight="948"/>
+	<SubTexture name="ruvstyle idle0012" x="928" y="968" width="449" height="935" frameX="-11" frameY="-13" frameWidth="465" frameHeight="948"/>
+	<SubTexture name="ruvstyle idle0013" x="928" y="968" width="449" height="935" frameX="-11" frameY="-13" frameWidth="465" frameHeight="948"/>
+	
+	<SubTexture name="ruvstyle left0000" x="1387" y="968" width="676" height="998"/>
+	<SubTexture name="ruvstyle left0001" x="1387" y="968" width="676" height="998"/>
+	<SubTexture name="ruvstyle left0002" x="2073" y="968" width="571" height="942" frameX="-16" frameY="-56" frameWidth="676" frameHeight="998"/>
+	<SubTexture name="ruvstyle left0003" x="2073" y="968" width="571" height="942" frameX="-16" frameY="-56" frameWidth="676" frameHeight="998"/>
+	<SubTexture name="ruvstyle left0004" x="2654" y="968" width="606" height="957" frameX="-20" frameY="-41" frameWidth="676" frameHeight="998"/>
+	<SubTexture name="ruvstyle left0005" x="2654" y="968" width="606" height="957" frameX="-20" frameY="-41" frameWidth="676" frameHeight="998"/>
+	<SubTexture name="ruvstyle left0006" x="3270" y="968" width="612" height="959" frameX="-21" frameY="-39" frameWidth="676" frameHeight="998"/>
+	<SubTexture name="ruvstyle left0007" x="3270" y="968" width="612" height="959" frameX="-21" frameY="-39" frameWidth="676" frameHeight="998"/>
+	<SubTexture name="ruvstyle left0008" x="3270" y="968" width="612" height="959" frameX="-21" frameY="-39" frameWidth="676" frameHeight="998"/>
+	<SubTexture name="ruvstyle left0009" x="3270" y="968" width="612" height="959" frameX="-21" frameY="-39" frameWidth="676" frameHeight="998"/>
+	<SubTexture name="ruvstyle left0010" x="3270" y="968" width="612" height="959" frameX="-21" frameY="-39" frameWidth="676" frameHeight="998"/>
+	<SubTexture name="ruvstyle left0011" x="3270" y="968" width="612" height="959" frameX="-21" frameY="-39" frameWidth="676" frameHeight="998"/>
+	<SubTexture name="ruvstyle left0012" x="3270" y="968" width="612" height="959" frameX="-21" frameY="-39" frameWidth="676" frameHeight="998"/>
+	<SubTexture name="ruvstyle left0013" x="3270" y="968" width="612" height="959" frameX="-21" frameY="-39" frameWidth="676" frameHeight="998"/>
+	<SubTexture name="ruvstyle left0014" x="3270" y="968" width="612" height="959" frameX="-21" frameY="-39" frameWidth="676" frameHeight="998"/>
+	
+	<SubTexture name="ruvstyle right0000" x="10" y="1976" width="587" height="913" frameX="0" frameY="0" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0001" x="10" y="1976" width="587" height="913" frameX="0" frameY="0" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0002" x="607" y="1976" width="539" height="905" frameX="-85" frameY="-8" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0003" x="607" y="1976" width="539" height="905" frameX="-85" frameY="-8" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0004" x="1156" y="1976" width="539" height="906" frameX="-38" frameY="-7" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0005" x="1156" y="1976" width="539" height="906" frameX="-38" frameY="-7" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0006" x="1705" y="1976" width="540" height="907" frameX="-27" frameY="-6" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0007" x="1705" y="1976" width="540" height="907" frameX="-27" frameY="-6" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0008" x="1705" y="1976" width="540" height="907" frameX="-27" frameY="-6" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0009" x="1705" y="1976" width="540" height="907" frameX="-27" frameY="-6" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0010" x="1705" y="1976" width="540" height="907" frameX="-27" frameY="-6" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0011" x="1705" y="1976" width="540" height="907" frameX="-27" frameY="-6" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0012" x="1705" y="1976" width="540" height="907" frameX="-27" frameY="-6" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0013" x="1705" y="1976" width="540" height="907" frameX="-27" frameY="-6" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0014" x="1705" y="1976" width="540" height="907" frameX="-27" frameY="-6" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0015" x="1705" y="1976" width="540" height="907" frameX="-27" frameY="-6" frameWidth="624" frameHeight="913"/>
+	<SubTexture name="ruvstyle right0016" x="1705" y="1976" width="540" height="907" frameX="-27" frameY="-6" frameWidth="624" frameHeight="913"/>
+	
+	<SubTexture name="ruvstyle up0000" x="2255" y="1976" width="453" height="965" frameX="-2" frameY="-26" frameWidth="472" frameHeight="991"/>
+	<SubTexture name="ruvstyle up0001" x="2255" y="1976" width="453" height="965" frameX="-2" frameY="-26" frameWidth="472" frameHeight="991"/>
+	<SubTexture name="ruvstyle up0002" x="2718" y="1976" width="472" height="991"/>
+	<SubTexture name="ruvstyle up0003" x="2718" y="1976" width="472" height="991"/>
+	<SubTexture name="ruvstyle up0004" x="3200" y="1976" width="461" height="970" frameX="-1" frameY="-20" frameWidth="472" frameHeight="991"/>
+	<SubTexture name="ruvstyle up0005" x="3200" y="1976" width="461" height="970" frameX="-1" frameY="-20" frameWidth="472" frameHeight="991"/>
+	<SubTexture name="ruvstyle up0006" x="10" y="2977" width="460" height="968" frameX="0" frameY="-23" frameWidth="472" frameHeight="991"/>
+	<SubTexture name="ruvstyle up0007" x="10" y="2977" width="460" height="968" frameX="0" frameY="-23" frameWidth="472" frameHeight="991"/>
+	<SubTexture name="ruvstyle up0008" x="10" y="2977" width="460" height="968" frameX="0" frameY="-23" frameWidth="472" frameHeight="991"/>
+	<SubTexture name="ruvstyle up0009" x="10" y="2977" width="460" height="968" frameX="0" frameY="-23" frameWidth="472" frameHeight="991"/>
+	<SubTexture name="ruvstyle up0010" x="10" y="2977" width="460" height="968" frameX="0" frameY="-23" frameWidth="472" frameHeight="991"/>
+	<SubTexture name="ruvstyle up0011" x="10" y="2977" width="460" height="968" frameX="0" frameY="-23" frameWidth="472" frameHeight="991"/>
+	<SubTexture name="ruvstyle up0012" x="10" y="2977" width="460" height="968" frameX="0" frameY="-23" frameWidth="472" frameHeight="991"/>
+	<SubTexture name="ruvstyle up0013" x="10" y="2977" width="460" height="968" frameX="0" frameY="-23" frameWidth="472" frameHeight="991"/>
+	<SubTexture name="ruvstyle up0014" x="10" y="2977" width="460" height="968" frameX="0" frameY="-23" frameWidth="472" frameHeight="991"/>
+	<SubTexture name="ruvstyle up0015" x="10" y="2977" width="460" height="968" frameX="0" frameY="-23" frameWidth="472" frameHeight="991"/>
+	<SubTexture name="ruvstyle up0016" x="10" y="2977" width="460" height="968" frameX="0" frameY="-23" frameWidth="472" frameHeight="991"/>
+</TextureAtlas>
