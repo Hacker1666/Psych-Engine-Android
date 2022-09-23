@@ -1,0 +1,148 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				633,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Tabi Idle"
+		},
+		{
+			"offsets": [
+				783,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tabi Left"
+		},
+		{
+			"offsets": [
+				750,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tabi Down"
+		},
+		{
+			"offsets": [
+				680,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tabi Up"
+		},
+		{
+			"offsets": [
+				640,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tabi Right"
+		},
+		{
+			"offsets": [
+				640,
+				60
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				10,
+				12
+			],
+			"name": "Tabi Right"
+		},
+		{
+			"offsets": [
+				680,
+				70
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "singUP-loop",
+			"indices": [
+				12,
+				13
+			],
+			"name": "Tabi Up"
+		},
+		{
+			"offsets": [
+				750,
+				60
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "singDOWN-loop",
+			"indices": [
+				12,
+				13
+			],
+			"name": "Tabi Down"
+		},
+		{
+			"offsets": [
+				783,
+				59
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13
+			],
+			"name": "Tabi Left"
+		},
+		{
+			"offsets": [
+				633,
+				59
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				12
+			],
+			"name": "Tabi Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TABI",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tabi",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		106,
+		133
+	],
+	"camera_position": [
+		-300,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

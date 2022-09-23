@@ -2,76 +2,76 @@
 	"animations": [
 		{
 			"offsets": [
-				5,
-				37
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singUP",
-			"loop": false,
-			"name": "Tankman UP note instance"
-		},
-		{
-			"offsets": [
-				40,
-				0
+				12,
+				-6
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
 			"loop": false,
-			"name": "Tankman Right Note instance"
+			"name": "Dad Sing Note LEFT"
 		},
 		{
 			"offsets": [
-				0,
-				0
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHT",
-			"loop": false,
-			"name": "Tankman Note Left instance"
-		},
-		{
-			"offsets": [
-				14,
-				0
+				-10,
+				-50
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
 			"loop": false,
-			"name": "Tankman DOWN note instance"
+			"name": "Dad Sing Note DOWN"
 		},
 		{
 			"offsets": [
-				2,
-				0
+				-29,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"offsets": [
+				-38,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-3,
+				-1
 			],
 			"indices": [],
 			"fps": 24,
 			"anim": "idle",
 			"loop": false,
-			"name": "Tankman Idle Dance"
+			"name": "Dad idle dance"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/char",
+	"no_antialiasing": false,
+	"image": "characters/RedTabi",
 	"position": [
-		150,
-		150
+		-160,
+		20
 	],
-	"healthicon": "icons",
+	"healthicon": "tabi",
 	"flip_x": true,
 	"healthbar_colors": [
-		255,
-		0,
-		255
+		49,
+		176,
+		209
 	],
 	"camera_position": [
-		90,
-		-50
+		-210,
+		0
 	],
 	"sing_duration": 4,
 	"scale": 1

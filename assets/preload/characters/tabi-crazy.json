@@ -1,0 +1,176 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				607,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MadTabiIdle"
+		},
+		{
+			"offsets": [
+				814,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MadTabiLeft"
+		},
+		{
+			"offsets": [
+				672,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MadTabiDown"
+		},
+		{
+			"offsets": [
+				643,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MadTabiUp"
+		},
+		{
+			"offsets": [
+				600,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MadTabiRight"
+		},
+		{
+			"offsets": [
+				600,
+				-40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "MadTabiRight"
+		},
+		{
+			"offsets": [
+				672,
+				-80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "MadTabiDown"
+		},
+		{
+			"offsets": [
+				643,
+				67
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "MadTabiUp"
+		},
+		{
+			"offsets": [
+				814,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "MadTabiLeft"
+		},
+		{
+			"offsets": [
+				607,
+				-31
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				11,
+				9,
+				10,
+				11,
+				12,
+				13,
+				11,
+				9
+			],
+			"name": "MadTabiIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MadTabi",
+	"position": [
+		320,
+		0
+	],
+	"healthicon": "tabi-crazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		106,
+		133
+	],
+	"camera_position": [
+		-300,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

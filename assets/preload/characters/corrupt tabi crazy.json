@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				96
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MadTabiUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-58
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MadTabiDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MadTabiRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				264,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MadTabiLeft"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "MadTabiIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corrupt tabi crazy",
+	"position": [
+		-300,
+		0
+	],
+	"healthicon": "tabi-crazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}
