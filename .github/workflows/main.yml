@@ -137,5 +137,5 @@ jobs:
       - name: Publish Artifact
         uses: actions/upload-artifact@v2.2.4
         with:
-          name: macBuild
-          path: export/release/macos/bin
+          name: AndroidBuild
+          path: export/release/android/debug
